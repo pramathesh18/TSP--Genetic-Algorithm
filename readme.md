@@ -3,9 +3,9 @@
 Small project implementing Genetic Algorithms for the Traveling Salesman Problem using the TSPLIB `berlin52.tsp`.
 
 
-To run this project, just run [ga_tsp1.py] , it will show the estimated result with a route map.
-To get the best result run [run_ga.py] , it will run the algorithm for 10 times, and save the optimal results, (route<8000) on a results.txt.
-Now run [plot_best.py] to find 3 best solutions, and plot it.
+To run this project, just run [ga_tsp1.py](ga_tsp1.py) , it will show the estimated result with a route map.
+To get the best result run [run_ga.py](run_ga.py) , it will run the algorithm for 10 times, and save the optimal results, (route<8000) on a results.txt.
+Now run [plot_best.py](plot_best.py)  to find 3 best solutions, and plot it.
 
 Files
 - [berlin52.tsp](berlin52.tsp) — TSPLIB instance of 52 cities
